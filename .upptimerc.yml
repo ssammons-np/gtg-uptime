@@ -8,9 +8,15 @@ sites:
   - name: Library
     url: http://library.npelem.com
   - name: WHES Library
-    url: https://whes.npelem.com
-  - name: Website
+    url: http://whes.npelem.com
+  - name: NP Website
     url: https://www.npelem.com
+  - name: WV Website
+    url: https://www.westvillesd.com
+  - name: WN Website
+    url: https://www.wenonahsd.org
+  - name: GW Website
+    url: https://www.gatewayhs.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
