@@ -1,7 +1,7 @@
 url: https://www.ixl.com/signin/gatewaygroup
-status: up
-code: 200
-responseTime: 425
-lastUpdated: 2025-07-12T23:38:05.757Z
+status: down
+code: 500
+responseTime: 317
+lastUpdated: 2025-07-13T05:44:48.632Z
 startTime: 2025-07-10T15:26:52.558Z
 generator: Upptime <https://github.com/upptime/upptime>
